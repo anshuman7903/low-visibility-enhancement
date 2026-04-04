@@ -41,7 +41,7 @@ https://www.kaggle.com/datasets/andrewmvd/hard-hat-detection
 | **Recall** | **91.38%** ✅ |
 | mAP@0.50:0.95 | 67.22% |
 | Model | YOLOv8n |
-| Epochs | 50 |
+| Epochs | 15 |
 
 Target accuracy was 86–90% — achieved 94.77% mAP@0.50.
 
